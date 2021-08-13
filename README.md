@@ -6,7 +6,8 @@ From .wav to text(Ukraine)
 
 ----------------------------------
 
-pip3 install pydub \n
+pip3 install pydub
+
 pip3 install SpeechRecognition
 
 ----------------------------------
