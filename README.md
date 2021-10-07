@@ -2,11 +2,13 @@
 ----------------------------------
 
 # recognize_ukr
-From .wav to text(Ukraine)
+From audio to text(Ukraine)
 
-Works only with .wav (https://online-audio-converter.com)
+Works only with .wav audio format (https://online-audio-converter.com)
 
 ----------------------------------
+
+Requirements:
 
 pip3 install pydub
 
