@@ -15,7 +15,7 @@ Requirements:
 
 
     pip3 install pydub
-----------------------------------    
+------------ 
     pip3 install SpeechRecognition
 
 ----------------------------------
