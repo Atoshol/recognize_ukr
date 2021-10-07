@@ -13,9 +13,9 @@ Works only with .wav audio format (https://online-audio-converter.com)
 
 Requirements:
 
-  pip3 install pydub
+    pip3 install pydub
 
-  pip3 install SpeechRecognition
+    pip3 install SpeechRecognition
 
 ----------------------------------
 
