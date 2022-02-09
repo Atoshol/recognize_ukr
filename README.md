@@ -11,6 +11,8 @@ Works only with .wav audio format (https://online-audio-converter.com)
 
 Recognize 60-70%
 
+Python must be installed
+
 ----------------------------------
 
 Requirements:
